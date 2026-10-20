@@ -55,4 +55,4 @@ https://www.canva.com/design/DAHVvVwozGA/Uw2CFCAa7H29QgSAVFhykA/edit
 
 
 
-## 6. Takeaway nnnnnn
+## 6. Takeaway 
