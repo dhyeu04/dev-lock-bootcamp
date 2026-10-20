@@ -3,7 +3,7 @@
 - Student: Đỗ Duy Hiếu
 - GitHub: https://github.com/dhyeu04
 - Submitted: 20/10/2026
-- Commit: https://github.com/dhyeu04/Do-Duy-Hieu/blob/main/session-01.md
+- Commit: https://github.com/dhyeu04/dev-lock-bootcamp
 
 ## 1. Summary
 -Blockchain là một dạng cơ sở dữ liệu phân tán: dữ liệu được chia thành nhiều khối, mỗi khối được mã hóa để bảo vệ và nối liền với khối trước nó.
