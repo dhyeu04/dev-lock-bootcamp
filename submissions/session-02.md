@@ -2,7 +2,7 @@
 # Session 02 - How Blockchain Works
 - Student: Đỗ Duy Hiếu
 - GitHub: https://github.com/dhyeu04
-- Submitted: 2026-10-22
+- Submitted: 26/10/2026
 - Commit: https://github.com/dhyeu04/dev-lock-bootcamp
 
 ## 1. Summary
