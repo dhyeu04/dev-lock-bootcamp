@@ -106,16 +106,15 @@ Private Key (256-bit)  --secp256k1-->  Public Key  --Hashing-->  Hash rút gọn
 
 ## 3. Work completed
 
-- <Điền việc bạn thực sự đã làm: ví dụ tham gia buổi học ngày nào, thử web demo hash, làm bài tình huống...>
+
 
 ## 4. Evidence
 
-- <Dán link Drive/ảnh chụp minh chứng của bạn>
+
 
 ## 5. Blockers
 
-- Không
+
 
 ## 6. Takeaway
 
-- Quyền kiểm soát tài sản trên blockchain nằm ở private key, nên bảo vệ private key và seed phrase là việc quan trọng nhất khi dùng ví.
