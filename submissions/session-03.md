@@ -110,7 +110,7 @@ Private Key (256-bit)  --secp256k1-->  Public Key  --Hashing-->  Hash rút gọn
 
 ## 4. Evidence
 
-
+https://canva.link/slybut5ov0usqix
 
 ## 5. Blockers
 
