@@ -139,7 +139,7 @@ Bài học xoay quanh một câu hỏi: **một mạng không có máy chủ tru
 
 ## 4. Evidence
 
-
+https://www.canva.com/design/DAHWMGTr7l0/gRumPHmv92ve6lkINLKn9Q/edit
 
 ## 5. Blockers
 
