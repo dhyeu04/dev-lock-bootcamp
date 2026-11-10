@@ -1,9 +1,9 @@
 # Session 04 - Cơ chế đồng thuận & Kiến trúc Blockchain
 
-- **Student:** Đỗ Duy Hiếu
-- **GitHub:** https://github.com/dhyeu04
-- **Submitted:** 10/11/2026
-- **Commit:** https://github.com/dhyeu04/dev-lock-bootcamp
+- Student: Đỗ Duy Hiếu
+- GitHub: https://github.com/dhyeu04
+- Submitted: 10/11/2026
+- Commit: https://github.com/dhyeu04/dev-lock-bootcamp
 
 ---
 
