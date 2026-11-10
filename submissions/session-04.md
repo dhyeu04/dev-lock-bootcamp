@@ -1,7 +1,7 @@
 # Session 04 - Cơ chế đồng thuận & Kiến trúc Blockchain
 
 - **Student:** Đỗ Duy Hiếu
-- **GitHub:** <điền link GitHub của bạn>
+- **GitHub:** https://github.com/dhyeu04
 - **Submitted:** 10/11/2026
 - **Commit:** <điền link commit/repo của bạn>
 
