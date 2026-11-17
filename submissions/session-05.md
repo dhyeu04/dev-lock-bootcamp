@@ -8,7 +8,7 @@
 
 ---
 
-## 1. Tổng quan (Summary)
+## 1. Summary
 
 Trong Session 05, em tìm hiểu về Smart Contract (Hợp đồng thông minh) và Digital Assets (Tài sản số) trong công nghệ Blockchain.
 
@@ -22,9 +22,9 @@ Các nội dung chính bao gồm:
 - Phân biệt các môi trường thực thi EVM, SVM và WASM.
 - Liên hệ kiến thức với việc phát triển các ứng dụng Blockchain thực tế.
 
-## 2. Nội dung kiến thức (Topic Notes)
+## 2. Topic Notes
 
-### 2.1. Smart Contract (Hợp đồng thông minh)
+### 2.1. Smart Contract
 
 Smart Contract là một chương trình được triển khai trên Blockchain, có khả năng tự động thực hiện các điều kiện và lệnh đã được lập trình trước mà không cần bên trung gian can thiệp.
 
@@ -66,20 +66,20 @@ Trên mạng Ethereum:
 
 Có ba thao tác quan trọng trong quá trình quản lý Token:
 
-**1. Mint (Tạo Token)**
+**1. Mint**
 
 - Tạo ra Token mới.
 - Làm tăng tổng nguồn cung.
 - Cần có quyền phù hợp theo thiết kế Smart Contract.
 
-**2. Transfer (Chuyển Token)**
+**2. Transfer**
 
 - Chuyển Token từ ví này sang ví khác.
 - Số dư người gửi giảm.
 - Số dư người nhận tăng.
 - Không làm thay đổi tổng nguồn cung.
 
-**3. Burn (Đốt Token)**
+**3. Burn**
 
 - Loại bỏ Token khỏi nguồn cung.
 - Làm giảm tổng số Token.
@@ -115,7 +115,7 @@ Depeg là hiện tượng Stablecoin bị mất hoặc lệch khỏi mức giá 
 
 Ví dụ: Một Stablecoin được thiết kế để duy trì giá trị 1 USD nhưng giá thị trường giảm xuống 0,97 USD.
 
-### 2.5. NFT (Non-Fungible Token)
+### 2.5. NFT
 
 NFT là một loại Token không thể thay thế, mỗi NFT có mã định danh riêng biệt để phân biệt với những NFT khác.
 
@@ -214,24 +214,11 @@ Thông qua quy trình này, em hiểu rõ hơn mối liên hệ giữa Smart Con
 
 ## 4. Work Completed
 
-- Tìm hiểu kiến thức cơ bản về Smart Contract.
-- Phân biệt Native Coin và Token.
-- Nắm được cơ chế Mint, Transfer và Burn.
-- Tìm hiểu về Stablecoin và NFT.
-- Nghiên cứu công thức tính Gas Fee.
-- Phân biệt các môi trường EVM, SVM và WASM.
-- Liên hệ kiến thức với dự án PortablePass.
-- Tổng hợp kiến thức thành tài liệu Session 05.
+
 
 ## 5. Evidence
 
-Các minh chứng có thể bổ sung:
-
-- Ảnh chụp ghi chú và tài liệu học tập.
-- Ảnh giao diện Remix IDE.
-- Ảnh quá trình biên dịch Smart Contract.
-- Ảnh kết nối ví MetaMask.
-- Ảnh kết quả triển khai hoặc tương tác với Contract.
+https://www.canva.com/design/DAHWMGTr7l0/gRumPHmv92ve6lkINLKn9Q/edit
 
 ## 6. Blockers
 
