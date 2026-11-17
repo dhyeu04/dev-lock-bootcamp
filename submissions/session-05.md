@@ -218,7 +218,7 @@ Thông qua quy trình này, em hiểu rõ hơn mối liên hệ giữa Smart Con
 
 ## 5. Evidence
 
-https://www.canva.com/design/DAHWMGTr7l0/gRumPHmv92ve6lkINLKn9Q/edit
+https://canva.link/f9k05ereypryzn8
 
 ## 6. Blockers
 
