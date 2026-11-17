@@ -2,7 +2,7 @@
 # SESSION 05 - SMART CONTRACT & DIGITAL ASSETS
 
 - **Họ và tên:** Đỗ Duy Hiếu
-- **GitHub:** [Tên tài khoản GitHub]
+- **GitHub:** https://github.com/dhyeu04
 - **Submitted:** 17/11/2026
 - **Commit:** Hợp đồng thông minh và tài sản số trên Blockchain
 
