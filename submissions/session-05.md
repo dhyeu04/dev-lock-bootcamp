@@ -1,7 +1,7 @@
 
 # SESSION 05 - SMART CONTRACT & DIGITAL ASSETS
 
-- Họ và tên: Đỗ Duy Hiếu
+- Student: Đỗ Duy Hiếu
 - GitHub: https://github.com/dhyeu04
 - Submitted: 17/11/2026
 - Commit: https://github.com/dhyeu04/dev-lock-bootcamp
