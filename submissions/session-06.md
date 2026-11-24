@@ -49,7 +49,7 @@ Buổi học giới thiệu dApp (ứng dụng phi tập trung) hoạt động n
 
 ## 4. Evidence
 
-
+https://canva.link/bqe48vrodrubm04
 
 ## 5. Blockers
 
