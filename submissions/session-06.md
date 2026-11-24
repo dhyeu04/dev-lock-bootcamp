@@ -3,7 +3,7 @@
 - Student: Đỗ Duy Hiếu
 - GitHub: https://github.com/dhyeu04
 - Submitted: 24/11/2026
-- **Commit:** `[S06] add devlog`
+- Commit: https://github.com/dhyeu04/dev-lock-bootcamp
 
 ## 1. Summary
 
