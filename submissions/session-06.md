@@ -1,6 +1,6 @@
 # Session 06 - DApps & Web3 Ecosystem
 
-- **Sinh viên:** Đỗ Duy Hiếu (GitHub @<username-của-bạn>)
+- Student: Đỗ Duy Hiếu
 - **Ngày nộp:** 24/11/2026
 - **Commit:** `[S06] add devlog`
 
