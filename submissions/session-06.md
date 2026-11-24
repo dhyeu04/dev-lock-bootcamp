@@ -58,4 +58,3 @@ https://canva.link/bqe48vrodrubm04
 
 ## 6. Takeaway
 
-Điểm khác biệt lớn nhất của dApp là logic nằm trong contract công khai và người dùng tự giữ khóa qua ví. Vì vậy trước khi bấm ký bất kỳ giao dịch nào, mình cần đọc kỹ xem giao dịch đó sẽ làm gì.
