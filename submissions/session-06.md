@@ -2,7 +2,7 @@
 
 - Student: Đỗ Duy Hiếu
 - GitHub: https://github.com/dhyeu04
-- **Ngày nộp:** 24/11/2026
+- Submitted: 24/11/2026
 - **Commit:** `[S06] add devlog`
 
 ## 1. Summary
